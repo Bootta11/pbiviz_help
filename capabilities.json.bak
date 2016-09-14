@@ -1,0 +1,38 @@
+{
+    "dataRoles": [
+        {
+            "displayName": "Time",
+            "name": "time",
+            "kind": 0
+        }
+    ],
+    "dataViewMappings": [
+        {
+            "conditions": [
+               {
+                   "time":{"max": 1}
+               } 
+            ],
+            "table": {
+                "rows": {
+                    "bind": {
+                        "to": "time"
+                    }
+                }
+            }
+        }
+    ],
+    "objects": {
+        "customObjectTest": {
+            "displayName": "Custom object test",
+            "properties": {
+                "prop11":{
+                    "displayName": "Prop11test",
+                    "type": {
+                        "bool": true                      
+                    }
+                }
+            }
+        }
+    }
+}

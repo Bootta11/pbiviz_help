@@ -1,0 +1,15 @@
+{
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160829152510",
+    "bootstrap-datepicker": "registry:dt/bootstrap-datepicker#0.0.0+20160812112642",
+    "d3": "registry:dt/d3#0.0.0+20160907005744",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "gldatepicker": "registry:dt/gldatepicker#2.0.0+20160316155526",
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008",
+    "jqueryui": "registry:dt/jqueryui#1.11.0+20160727153854",
+    "react": "registry:dt/react#0.14.0+20160829191040",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
+    "socket.io": "registry:dt/socket.io#1.4.4+20160907102948"
+  }
+}
